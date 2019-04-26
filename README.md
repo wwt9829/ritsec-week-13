@@ -3,6 +3,8 @@ RIT Security Club
 
 Weekly Challenges #13
 
+* Easy 2: Caesar cipher solver
+* Easy 3: Networking configuration
 * Medium 3: SSH log parser
 * Hard 2: Anything that doesn't exist yet!
 * Bonus: Wireless client MAC address logger
