@@ -1,5 +1,5 @@
 # RITSEC Scripting Week
-RIT Security Club
+[RIT Security Club](https://ritsec.club)
 
 Weekly Challenges #13
 
