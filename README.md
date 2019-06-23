@@ -3,7 +3,7 @@
 # RITSEC Spring 2019 CTF - Week 13
 Topic: Scripting  
 [Challenge Guide (RIT Login)](https://docs.google.com/document/d/1mivtz-taZkvjMT8-gVD439IPkr2aUwe1ZpLdfV66Llk/edit#heading=h.y2r5as1fa9w)  
-[Challenge Solutions](http://example.com/)  
+[Challenge Solutions](https://medium.com/@wywyit/ritsec-spring-2018-ctf-week-13-and-conclusion-3629413a6bc6?source=friends_link&sk=344026335b01b9ba2055f3716b0f6505)  
 [The RIT Security Club](https://ritsec.club)
 
 * Easy 1: Create a Week 13 GitHub repo - `RS{e4sy_0n3_scripting}`
