@@ -10,7 +10,7 @@ echo ritsec:$password1 | chpasswd
 
 # Change root password
 read -s -p "Enter root account password: " password2
-echo ritsec:$password2 | chpasswd				# change to root
+echo root:$password2 | chpasswd
 
 # Disable remote access
 systemctl stop ssh
