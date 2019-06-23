@@ -1,11 +1,10 @@
 <img src="https://www.ritsec.club/assets/images/logo_header.png" alt="ritsec logo" width="300"/>
 
 # RITSEC Spring 2019 CTF - Week 13
-[RIT Security Club](https://ritsec.club)
-
-Topic: Scripting
-
-[Challenge Solutions](http://example.com/)
+Topic: Scripting  
+[Challenge Guide (RIT Login)](https://docs.google.com/document/d/1mivtz-taZkvjMT8-gVD439IPkr2aUwe1ZpLdfV66Llk/edit#heading=h.y2r5as1fa9w)  
+[Challenge Solutions](http://example.com/)  
+[The RIT Security Club](https://ritsec.club)
 
 * Easy 1: Create a Week 13 GitHub repo - `RS{e4sy_0n3_scripting}`
 * Easy 2: Caesar cipher solver (Perl) - `RS{e4sy_tw0_w4ys_2_scr1pt}`
@@ -21,4 +20,3 @@ Topic: Scripting
   * [Basic Intrusion Prevention System](https://github.com/clev98/System-Forensics-Project)
 * Bonus: Wireless client MAC address logger (Python) - `RS{beac0ns_that_arent_malicious?}`
 
-[Challenge Guide (RIT Login)](https://docs.google.com/document/d/1mivtz-taZkvjMT8-gVD439IPkr2aUwe1ZpLdfV66Llk/edit#heading=h.y2r5as1fa9w)
