@@ -1,7 +1,11 @@
-# RITSEC Scripting Week
+<img src="https://www.ritsec.club/assets/images/logo_header.png" alt="ritsec logo" width="300"/>
+
+# RITSEC Spring 2019 CTF - Week 13
 [RIT Security Club](https://ritsec.club)
 
-Weekly Challenges #13
+Topic: Scripting
+
+[Challenge Solutions](http://example.com/)
 
 * Easy 1: Create a Week 13 GitHub repo - `RS{e4sy_0n3_scripting}`
 * Easy 2: Caesar cipher solver (Perl) - `RS{e4sy_tw0_w4ys_2_scr1pt}`
