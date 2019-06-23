@@ -1,6 +1,9 @@
 require 'socket'
 require 'timeout'
 
+# RITSEC Demos Week 13
+# Medium 2
+
 $rhost = ARGV[0]
 $min_port = ARGV[1]
 $max_port = ARGV[2]
